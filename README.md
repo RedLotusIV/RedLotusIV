@@ -1,4 +1,4 @@
-![gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjNmMjViODYzNmZxbjg3cnV5Z3prNjZ6dHU1em10OWhycGw4aXV3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AUAygDNE0VjCX4adu0/giphy.gif)
+![gif](CyberPgif)
 ### 👋 About Me
 
 Hey there! I'm Adnane Mouhandiz, currently studying C/C++ as a software engineering student, trying to understand more interesting algorithms, beating challenges of software development, and exploring more about computer science.
