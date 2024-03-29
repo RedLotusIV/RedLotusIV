@@ -1,4 +1,3 @@
-![gif](CyberPgif.gif)
 ### 👋 About Me
 
 Hey there! I'm Adnane Mouhandiz, currently studying C/C++ as a software engineering student, trying to understand more interesting algorithms, beating challenges of software development, and exploring more about computer science.
@@ -28,3 +27,4 @@ supLib: A personal C library made of many functions i utilize often, out of the 
 [Twitter](https://twitter.com/RedLotusIIV)
 
 # 📧 Email : amouhand@student.1337.ma
+![gif](CyberPgif.gif)
