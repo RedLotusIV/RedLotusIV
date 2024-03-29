@@ -1,16 +1,19 @@
-### Hi there 👋
+### 👋 About Me
+Hey there! I'm Adnane Mouhandiz, currently studying C/C++ as a software engineering student, trying to understand more interesting algorithms, beating challenges of software development, and exploring more about computer science.
 
-<!--
-**RedLotusIV/RedLotusIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Projects :
+N-Queens: a project where the problem is, placing n queens on an n x n chessboard such that no two queens attack each other.
+supLib: A personal C library made of many functions i utilize often, out of the 42 projects (Libft, GNL, Ft_printf).
 
-Here are some ideas to get you started:
+## Profiency in :
+🚀 C/C++
+🌠 Data Structures and Algorithms
+🔭 Version Control (Git)
+🛸 Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **My personal social media:**
+
+[Instagram](https://www.instagram.com/redlotusiv_/)
+[LinkedIn](https://www.linkedin.com/in/adnan-mouhandiz-769033279/)
+[Twitter](https://twitter.com/RedLotusIIV)
+# 📧 Email : amouhand@student.1337.ma
