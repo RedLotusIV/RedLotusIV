@@ -14,6 +14,9 @@ supLib: A personal C library made of many functions i utilize often, out of the 
 ## **My personal social media:**
 
 [Instagram](https://www.instagram.com/redlotusiv_/)
+
 [LinkedIn](https://www.linkedin.com/in/adnan-mouhandiz-769033279/)
+
 [Twitter](https://twitter.com/RedLotusIIV)
+
 # 📧 Email : amouhand@student.1337.ma
