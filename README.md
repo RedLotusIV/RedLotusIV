@@ -1,4 +1,4 @@
-![gif](CyberPgif)
+![gif](CyberPgif.gif)
 ### 👋 About Me
 
 Hey there! I'm Adnane Mouhandiz, currently studying C/C++ as a software engineering student, trying to understand more interesting algorithms, beating challenges of software development, and exploring more about computer science.
