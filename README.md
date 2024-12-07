@@ -52,4 +52,4 @@ Passionate software engineering student diving deep into the worlds of C/C++ and
 
 ## 📈 GitHub Stats
 
-![Adnane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Adnane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RedLotusIV&show_icons=true&theme=radical)
