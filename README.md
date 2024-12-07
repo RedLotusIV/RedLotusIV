@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-Passionate software engineering student diving deep into the worlds of C/C++ and algorithmic problem-solving. I'm on a continuous journey of learning, exploring complex computational challenges, and crafting efficient solutions. My focus lies in developing robust software, understanding intricate algorithms, and pushing the boundaries of computer science.
+A highly motivated software engineering student with a strong foundation in algorithmic problem-solving and a passion for creating innovative solutions. I excel at transforming complex challenges into elegant, efficient code, specializing in C and C++. With a curious mind and a relentless drive to push boundaries, I continuously seek opportunities to grow and contribute to the world of technology.
 
 ## 🚀 Technical Skills
 
@@ -10,30 +10,46 @@ Passionate software engineering student diving deep into the worlds of C/C++ and
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SDL](https://img.shields.io/badge/SDL-00599C?style=for-the-badge&logo=SimpleDirectMediaLayer&logoColor=white)
 
 ### Core Competencies
-- 🧩 Advanced Algorithm Design
-- 🏗️ Data Structures Implementation
-- 🔍 Problem Solving Techniques
-- 📐 Low-Level Systems Programming
+- 🧩 **Advanced Algorithm Design**: Skilled in crafting optimized solutions for computational problems.
+- 🏗️ **Data Structures Implementation**: Expertise in implementing and optimizing core data structures.
+- 🔍 **Problem-Solving Techniques**: Strong analytical skills honed through competitive programming.
+- 📐 **Low-Level Systems Programming**: Deep knowledge of systems-level programming in C.
+- 🎨 **Graphics Programming**: Experienced in building custom ray tracers and exploring rendering techniques.
+- 🛠️ **Tool Development**: Developed personal libraries and utilities to streamline workflows.
 
 ## 🌟 Notable Projects
 
 ### N-Queens Solver
-- Implemented an efficient solution to the classic N-Queens problem
-- Demonstrates advanced backtracking and algorithmic thinking
-- Solves the challenge of placing N queens on an N x N chessboard without conflicts
+- Designed and implemented an efficient backtracking algorithm for the N-Queens problem.
+- Highlights proficiency in recursion, state management, and algorithmic optimization.
+- Solves placement challenges on N x N chessboards with precision and efficiency.
 
-### supLib - Personal C Library
-- Developed a comprehensive utility library inspired by 42 school projects
-- Includes custom implementations of essential functions
-- Showcases deep understanding of C programming fundamentals
-- Projects: Libft, GNL (Get Next Line), Ft_printf
+### supLib - Personal C Utility Library
+- Comprehensive library inspired by 42 school projects.
+- Features custom implementations of essential functions such as `libft`, `GNL`, and `ft_printf`.
+- Demonstrates mastery of C programming principles and attention to detail.
+
+### SDL RayTracer
+- Built a RayTracer from scratch using SDL and GLM for mathematical operations.
+- Implements realistic lighting, shadows, and reflections to render 3D scenes.
+- Optimized for performance and compatible with Wayland environments.
+
+### Minishell
+- Developed a fully functional Unix shell with advanced features like job control and piping.
+- Gained expertise in system calls, process management, and signal handling.
+
+### ASCII Maze Explorer
+- Implemented a BFS-based exploration algorithm for navigating ASCII mazes.
+- Efficiently parses and processes complex input formats, showcasing problem-solving acumen.
 
 ## 📊 Coding Platforms
 
-- 🏆 LeetCode: Actively solving algorithmic challenges
-- 🧠 Continuous learning and skill enhancement through competitive programming
+- 🏆 **LeetCode**: Regularly solve challenges to enhance algorithmic thinking. [My Profile](https://leetcode.com/u/RedLotusIV/)
+- 🧠 **Competitive Programming**: Passionate about continuous learning and skill enhancement through platforms like HackerRank and Codeforces.
 
 ## 🌐 Connect With Me
 
