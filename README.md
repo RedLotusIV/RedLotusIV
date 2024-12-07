@@ -1,32 +1,55 @@
-### 👋 About Me
+# 👨‍💻 Adnane Mouhandiz | Software Engineering Student
 
-Hey there! I'm Adnane Mouhandiz, currently studying C/C++ as a software engineering student, trying to understand more interesting algorithms, beating challenges of software development, and exploring more about computer science.
+## 👋 About Me
 
-## My Projects :
+Passionate software engineering student diving deep into the worlds of C/C++ and algorithmic problem-solving. I'm on a continuous journey of learning, exploring complex computational challenges, and crafting efficient solutions. My focus lies in developing robust software, understanding intricate algorithms, and pushing the boundaries of computer science.
 
-N-Queens: a project where the problem is, placing n queens on an n x n chessboard such that no two queens attack each other.
+## 🚀 Technical Skills
 
-supLib: A personal C library made of many functions i utilize often, out of the 42 projects (Libft, GNL, Ft_printf).
+### Languages & Technologies
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Profiency in :
+### Core Competencies
+- 🧩 Advanced Algorithm Design
+- 🏗️ Data Structures Implementation
+- 🔍 Problem Solving Techniques
+- 📐 Low-Level Systems Programming
 
-🚀 C/C++
+## 🌟 Notable Projects
 
-🌠 Data Structures and Algorithms
+### N-Queens Solver
+- Implemented an efficient solution to the classic N-Queens problem
+- Demonstrates advanced backtracking and algorithmic thinking
+- Solves the challenge of placing N queens on an N x N chessboard without conflicts
 
-🔭 Version Control (Git)
+### supLib - Personal C Library
+- Developed a comprehensive utility library inspired by 42 school projects
+- Includes custom implementations of essential functions
+- Showcases deep understanding of C programming fundamentals
+- Projects: Libft, GNL (Get Next Line), Ft_printf
 
-🛸 Problem Solving
+## 📊 Coding Platforms
 
-## **My personal social media:**
+- 🏆 LeetCode: Actively solving algorithmic challenges
+- 🧠 Continuous learning and skill enhancement through competitive programming
 
-[Instagram](https://www.instagram.com/redlotusiv_/)
+## 🌐 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/adnan-mouhandiz-769033279/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnan-mouhandiz-769033279/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/RedLotusIV/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/redlotusiv_/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RedLotusIIV)
 
-[Twitter](https://twitter.com/RedLotusIIV)
+## 📧 Contact
 
-[Leetcode](https://leetcode.com/u/RedLotusIV/)
+**Email**: amouhand@student.1337.ma
 
-# 📧 Email : amouhand@student.1337.ma
-![gif](CyberPgif.gif)
+---
+
+![Coding GIF](CyberPgif.gif)
+
+## 📈 GitHub Stats
+
+![Adnane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
