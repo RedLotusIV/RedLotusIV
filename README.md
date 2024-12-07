@@ -23,6 +23,12 @@ A highly motivated software engineering student with a strong foundation in algo
 
 ## 🌟 Notable Projects
 
+### ChessBot
+- Developing a chess engine in C++ that leverages bitboards for efficient game state representation.
+- Implements move generation, legality checking, and AI-driven decision-making.
+- Demonstrates advanced understanding of algorithms, state management, and board evaluation techniques.
+- Aims to build a robust system capable of competing against human players.
+
 ### SDL RayTracer
 - Built a RayTracer from scratch using SDL and GLM for mathematical operations.
 - Implements realistic lighting, shadows, and reflections to render 3D scenes.
