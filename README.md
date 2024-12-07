@@ -23,16 +23,6 @@ A highly motivated software engineering student with a strong foundation in algo
 
 ## 🌟 Notable Projects
 
-### N-Queens Solver
-- Designed and implemented an efficient backtracking algorithm for the N-Queens problem.
-- Highlights proficiency in recursion, state management, and algorithmic optimization.
-- Solves placement challenges on N x N chessboards with precision and efficiency.
-
-### supLib - Personal C Utility Library
-- Comprehensive library inspired by 42 school projects.
-- Features custom implementations of essential functions such as `libft`, `GNL`, and `ft_printf`.
-- Demonstrates mastery of C programming principles and attention to detail.
-
 ### SDL RayTracer
 - Built a RayTracer from scratch using SDL and GLM for mathematical operations.
 - Implements realistic lighting, shadows, and reflections to render 3D scenes.
@@ -41,10 +31,6 @@ A highly motivated software engineering student with a strong foundation in algo
 ### Minishell
 - Developed a fully functional Unix shell with advanced features like job control and piping.
 - Gained expertise in system calls, process management, and signal handling.
-
-### ASCII Maze Explorer
-- Implemented a BFS-based exploration algorithm for navigating ASCII mazes.
-- Efficiently parses and processes complex input formats, showcasing problem-solving acumen.
 
 ## 📊 Coding Platforms
 
